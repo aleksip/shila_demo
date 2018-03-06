@@ -5,6 +5,21 @@ package: Shila
 description: 'Provides ways to demonstrate other Shila features.'
 dependencies:
   - block
+  - entity_browser_entity_form
+  - entity_reference_revisions
+  - field
   - help
+  - inline_entity_form
+  - language
+  - media_entity
+  - menu_ui
+  - node
+  - paragraphs
+  - path
   - search
+  - shila_core
+  - shila_image_styles
+  - shila_media
+  - shila_paragraphs
   - system
+  - user

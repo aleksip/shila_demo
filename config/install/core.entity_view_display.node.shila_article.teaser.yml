@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.shila_article.field_content
+    - field.field.node.shila_article.field_media
+    - node.type.shila_article
+  module:
+    - user
+id: node.shila_article.teaser
+targetEntityType: node
+bundle: shila_article
+mode: teaser
+content:
+  links:
+    weight: 100
+    region: content
+hidden:
+  field_content: true
+  field_media: true
+  langcode: true

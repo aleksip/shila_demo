@@ -1,18 +1,2 @@
 bundle: shila
-required:
-  - block.block.off_canvas_main_menu
-  - block.block.off_canvas_search
-  - block.block.shila_theme_account_menu
-  - block.block.shila_theme_branding
-  - block.block.shila_theme_breadcrumbs
-  - block.block.shila_theme_content
-  - block.block.shila_theme_footer
-  - block.block.shila_theme_help
-  - block.block.shila_theme_local_actions
-  - block.block.shila_theme_local_tasks
-  - block.block.shila_theme_main_menu
-  - block.block.shila_theme_messages
-  - block.block.shila_theme_page_title
-  - block.block.shila_theme_powered
-  - block.block.shila_theme_search
-  - block.block.shila_theme_tools
+required: true

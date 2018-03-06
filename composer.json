@@ -1,0 +1,17 @@
+
+{
+    "name": "aleksip/shila_demo",
+    "type": "drupal-module",
+    "description": "Provides ways to demonstrate other Shila features",
+    "keywords": ["drupal", "module", "features"],
+    "homepage": "https://github.com/aleksip/shila_demo",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Aleksi Peebles"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    }
+}

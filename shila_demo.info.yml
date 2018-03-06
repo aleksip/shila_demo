@@ -2,3 +2,9 @@ name: 'Shila Demo'
 type: module
 core: 8.x
 package: Shila
+description: 'Provides ways to demonstrate other Shila features.'
+dependencies:
+  - block
+  - help
+  - search
+  - system
